@@ -1,2 +1,2 @@
 # LeeCoPractice
-力扣对练习
+力扣的练习
