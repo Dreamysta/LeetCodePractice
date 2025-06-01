@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# LeeCodePractice
-存放力扣的练习
-=======
+ HEAD
 # LeetCodePractice
 力扣的练习
->>>>>>> 2ed4f8fef84cfb13bcdf1a2ee693ee59cc8ef316
+2ed4f8fef84cfb13bcdf1a2ee693ee59cc8ef316
