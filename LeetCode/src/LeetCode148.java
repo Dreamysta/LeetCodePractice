@@ -20,7 +20,7 @@ class Solution{
         }
 
         ListNode slow = head ,fast = head;
-        while (fast != tail && fast.next != null){
+        while (fast != tail && fast.next != tail){
             slow = slow.next;
             fast = fast.next.next;
         }
